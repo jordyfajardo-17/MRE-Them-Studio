@@ -1,0 +1,10 @@
+{
+  "repository": "jordyfajardo-17/MRE-Player",
+  "revision": "fe72fb96d982ac494aa1fc98c13a333a838683d9",
+  "files": {
+    "package.json": "3a52fa6d4f7328112c5d5345db58575c6067755fd94b1609f07fcf1610c14325",
+    "README.md": "f486b577218b86ef3b15b2744bd8b4b4b080d35b50e3b36ebcfb8d71f6171c00",
+    "src/index.ts": "8b7a0646ef452b87ec3bf46ff31871765e61cca4509fef2f138d78d61fc1d334",
+    "src/index.test.ts": "d5a75eaf576531a91bf512c78206dd22036edf8181f8f3a0601e11320cc592d2"
+  }
+}
